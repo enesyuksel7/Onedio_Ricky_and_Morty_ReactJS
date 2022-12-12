@@ -9,18 +9,19 @@ export default function Article({
 	status,
 	species,
 	gender,
-	origin, // next
+	origin, // I couldn't find the first seen part in the json file
 	location //
 }) {
   return (
         <article className="border font-['Segoe_UI'] border-slate-700 bg-[#23233F] text-[#B2B4D7] hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 transition-all duration-200 rounded-lg shadow overflow-hidden">
           
+		  <section class="">
 		  <LazyLoadImage src={image}
-				width={238} height={134}
-				alt="Image Card"
-				className="md:h-44 w-full object-cover" 
-				//effect="blur"
+					alt="Image Card"
+					className="md:h-44 w-screen object-cover"
+					effect="blur"
 			/>
+		  </section>
 
 			<h2 className="p-6 px-8 font-bold divide-y text-[28px] text-lg dark:text-white mb-2">{name}</h2>
 
