@@ -24,7 +24,7 @@ export default function Article({
 		  </section>
 
 			<h2 className="p-6 px-8 font-bold divide-y text-[28px] text-lg dark:text-white mb-2">{name}</h2>
-
+			
 			<div className="p-6 grid grid-cols-2 gap-3 content-start">
 					{status === 'Alive' ? (<button class="flex border font-bold border-slate-700 bg-[#141227] hover:bg-[#B2B4D7] text-[#B2B4D7] hover:text-[#141227] py-2 px-8 rounded-lg"><p className="text-[#B3FF38] pr-3">●</p>{status}</button>)
 						: null
@@ -42,6 +42,9 @@ export default function Article({
 					<button class="text-center flex border font-bold border-slate-700 bg-[#141227] hover:bg-[#B2B4D7] text-[#B2B4D7] hover:text-[#141227] py-2 px-8 rounded-lg">{species}</button>
 					<button class="text-center flex border font-bold border-slate-700 bg-[#141227] hover:bg-[#B2B4D7] text-[#B2B4D7] hover:text-[#141227] py-2 px-8 rounded-lg">{gender}</button>
 			</div>
+
+			<hr className="border-[#34344E]"></hr>
+
           <div className="p-8 py-4 px-7">
             <ul className="flex flex-col items-start justify-start gap-2 dark:text-gray-400">
 			  <li className="text-[16px]">Last known location: </li>
