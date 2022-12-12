@@ -2,8 +2,9 @@
 
 <section>
   <div>
-    <img src="https://mir-s3-cdn-cf.behance.net/projects/404/260c9189566335.Y3JvcCw4MDgsNjMyLDIyOCww.jpeg" width="20%">
-    <img src="https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" width="30%">
+    <img src="https://mir-s3-cdn-cf.behance.net/projects/404/260c9189566335.Y3JvcCw4MDgsNjMyLDIyOCww.jpeg" width="19%">
+    <img src="https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" width="27%">
+    <img src="https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg" width="29%">
   </div>
 </section>
 
@@ -26,14 +27,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
 <hr/>
 
