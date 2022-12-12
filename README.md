@@ -1,7 +1,7 @@
 # Onedio JavaScript Bootcamp Front-End Task
 
-<img src="https://mir-s3-cdn-cf.behance.net/projects/404/260c9189566335.Y3JvcCw4MDgsNjMyLDIyOCww.jpeg" width="70%">
-<img src="https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" width="70%">
+<img src="https://mir-s3-cdn-cf.behance.net/projects/404/260c9189566335.Y3JvcCw4MDgsNjMyLDIyOCww.jpeg" width="30%">
+<img src="https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" width="30%">
 
 <hr><hr/>
 
