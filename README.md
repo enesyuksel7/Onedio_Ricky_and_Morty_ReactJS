@@ -9,10 +9,12 @@
 </section>
 
 <hr>
-<a href="https://onedio-tech-enes.netlify.app">Click to visit the project I uploaded to Netlify platform</a>
+  <a href="https://onedio-tech-enes.netlify.app">Click to visit the project I uploaded to Netlify platform</a>
 <hr/>
 
-<img src="https://i.hizliresim.com/ae6a99w.jpg" width="70%">
+<a href="https://onedio-tech-enes.netlify.app">
+  <img src="https://i.hizliresim.com/ae6a99w.jpg" width="70%">
+</a>
 
 ## How to run the project?
 
