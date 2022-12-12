@@ -1,4 +1,4 @@
-# Onedio JavaScript Bootcamp Front-End Task
+# Onedio JavaScript Bootcamp - Rick and Morty Front-End Task
 
 <section>
   <div>
@@ -45,6 +45,8 @@ You may also see any lint errors in the console.
 * web-vitals": "^2.1.4"
 
 <hr/>
+
+## Results
 
 In this project, the "onedio-tech" task, which is the result of the Onedio JavaScript Bootcamp, has been developed. React infrastructure was used in the project.
 
