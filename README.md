@@ -1,5 +1,10 @@
 # Onedio JavaScript Bootcamp Front-End Task
 
+<img src="https://mir-s3-cdn-cf.behance.net/projects/404/260c9189566335.Y3JvcCw4MDgsNjMyLDIyOCww.jpeg" width="70%">
+<img src="https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" width="70%">
+
+<hr><hr/>
+
 <img src="https://i.hizliresim.com/ae6a99w.jpg" width="70%">
 
 ## How to run the project?
@@ -28,17 +33,17 @@ Your app is ready to be deployed!
 
 ## The following libraries were used:
 
-@heroicons/react": "^2.0.13
-@testing-library/jest-dom": "^5.16.5
-@testing-library/react": "^13.4.0
-@testing-library/user-event": "^13.5.0
-react": "^18.2.0
-react-dom": "^18.2.0
-react-lazy-load-image-component": "^1.5.6
-react-scripts": "5.0.1
-web-vitals": "^2.1.4"
+* heroicons/react": "^2.0.13
+* testing-library/jest-dom": "^5.16.5
+* testing-library/react": "^13.4.0
+* testing-library/user-event": "^13.5.0
+* react": "^18.2.0
+* react-dom": "^18.2.0
+* react-lazy-load-image-component": "^1.5.6
+* react-scripts": "5.0.1
+* web-vitals": "^2.1.4"
 
-<hr/>
+<hr><hr/>
 
 In this project, the "onedio-tech" task, which is the result of the Onedio JavaScript Bootcamp, has been developed. React infrastructure was used in the project.
 
