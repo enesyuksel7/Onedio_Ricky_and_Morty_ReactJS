@@ -1,8 +1,10 @@
 # Onedio JavaScript Bootcamp Front-End Task
 
-## Available Scripts
+<img src="https://i.hizliresim.com/ae6a99w.jpg" width="70%">
 
-In the project directory, you can run:
+## How to run the project?
+
+First, you must enter the following commands in the terminal in order:
 
 ### `npm install --force`
 
