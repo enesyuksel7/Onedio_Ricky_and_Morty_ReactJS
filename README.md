@@ -2,12 +2,12 @@
 
 <section>
   <div>
-    <img src="https://mir-s3-cdn-cf.behance.net/projects/404/260c9189566335.Y3JvcCw4MDgsNjMyLDIyOCww.jpeg" width="30%">
+    <img src="https://mir-s3-cdn-cf.behance.net/projects/404/260c9189566335.Y3JvcCw4MDgsNjMyLDIyOCww.jpeg" width="20%">
     <img src="https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png" width="30%">
   </div>
 </section>
 
-<hr><hr/>
+<hr/>
 
 <img src="https://i.hizliresim.com/ae6a99w.jpg" width="70%">
 
@@ -35,6 +35,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+<hr/>
+
 ## The following libraries were used:
 
 * heroicons/react": "^2.0.13
@@ -47,7 +49,7 @@ Your app is ready to be deployed!
 * react-scripts": "5.0.1
 * web-vitals": "^2.1.4"
 
-<hr><hr/>
+<hr/>
 
 In this project, the "onedio-tech" task, which is the result of the Onedio JavaScript Bootcamp, has been developed. React infrastructure was used in the project.
 
